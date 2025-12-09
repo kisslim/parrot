@@ -5,7 +5,7 @@
 ### 1. **Token Set** (7 tokens)
 - `哔` `叽` `啾` `噜` `啵` `!` `?`
 - Newline `\n` separates statements
-- Allowed patterns must be **semantically distinct**, with no repeated sequences ≥3 times
+- Allowed patterns must be **distinct**, with no repeated sequences ≥3 times
 
 You're absolutely right! The examples violate the repetition constraint. Let me redesign Parrot Language with **multiple representations** for each operation to allow avoidance of repeated patterns.
 
