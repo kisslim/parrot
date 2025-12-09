@@ -39,6 +39,8 @@ You're absolutely right! The examples violate the repetition constraint. Let me 
 
 ## ✅ Fixed Example Programs
 
+> FIXME: these example violated the rules by `哔叽哔叽哔叽`. We need better examples.
+
 ### Example 1: Print "A" (ASCII 65)
 *Using alternating representations to avoid repeats*
 ```
